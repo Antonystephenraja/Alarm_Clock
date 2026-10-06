@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "next_id": 10,
+  "settings": {
+    "time_format": "12",
+    "timezone": "UTC+05:30",
+    "snooze_minutes": 5
+  },
+  "alarms": [
+    {
+      "id": 4,
+      "at": "06:45:00",
+      "tz": "local",
+      "repeat": "once",
+      "message": "Gym time",
+      "tone": "classic",
+      "snooze_minutes": null,
+      "enabled": false,
+      "next_fire": null,
+      "snooze_until": null,
+      "last_fired": null,
+      "created": "2026-10-06T16:41:06.372219+00:00"
+    },
+    {
+      "id": 5,
+      "at": "07:30:00",
+      "tz": "local",
+      "repeat": "once",
+      "message": "Alarm!",
+      "tone": "classic",
+      "snooze_minutes": null,
+      "enabled": true,
+      "next_fire": "2026-10-07T02:00:00+00:00",
+      "snooze_until": null,
+      "last_fired": null,
+      "created": "2026-10-06T16:42:58.107709+00:00"
+    },
+    {
+      "id": 6,
+      "at": "07:30:00",
+      "tz": "local",
+      "repeat": "daily",
+      "message": "Alarm!",
+      "tone": "classic",
+      "snooze_minutes": null,
+      "enabled": true,
+      "next_fire": "2026-10-07T02:00:00+00:00",
+      "snooze_until": null,
+      "last_fired": null,
+      "created": "2026-10-06T16:43:03.989756+00:00"
+    },
+    {
+      "id": 7,
+      "at": "07:30:00",
+      "tz": "local",
+      "repeat": "once",
+      "message": "Take medicine",
+      "tone": "classic",
+      "snooze_minutes": null,
+      "enabled": true,
+      "next_fire": "2026-10-07T02:00:00+00:00",
+      "snooze_until": null,
+      "last_fired": null,
+      "created": "2026-10-06T16:43:08.466622+00:00"
+    },
+    {
+      "id": 8,
+      "at": "07:30:00",
+      "tz": "local",
+      "repeat": "once",
+      "message": "Alarm!",
+      "tone": ".. -- ..",
+      "snooze_minutes": null,
+      "enabled": true,
+      "next_fire": "2026-10-07T02:00:00+00:00",
+      "snooze_until": null,
+      "last_fired": null,
+      "created": "2026-10-06T16:43:18.810403+00:00"
+    },
+    {
+      "id": 9,
+      "at": "22:14:19",
+      "tz": "UTC+05:30",
+      "repeat": "once",
+      "message": "Alarm!",
+      "tone": "classic",
+      "snooze_minutes": null,
+      "enabled": false,
+      "next_fire": null,
+      "snooze_until": null,
+      "last_fired": "2026-10-06T16:44:19.981696+00:00",
+      "created": "2026-10-06T16:43:49.979492+00:00"
+    }
+  ]
+}
